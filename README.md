@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshverma4028&label=Profile%20views&color=0e19b4&style=flat-square" alt="harsh" /> </p>
 
-- 🌱 I’m currently learning **Flutter** and practising **DSA**.
+- 🌱 I’m currently learning **Flutter,Mern** and practising **DSA**.
 
 <!--- 🤝 I’m looking for help with **React** -->
 
