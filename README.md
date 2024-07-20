@@ -112,6 +112,5 @@
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=harshverma4028&theme=react)](https://git.io/streak-stats) -->
 
  <hr> 
- <img src="https://raw.githubusercontent.com/harshverma4028/harshverma4028/output/snake.svg" alt="Snake animation" />
-<!-- ![snake gif](https://github.com/harshverma4028/harshverma4028/blob/output/github-contribution-grid-snake.svg) -->
+<img src="https://raw.githubusercontent.com/harshverma4028/harshverma4028/output/snake.svg" alt="Snake animation" />
 <!--[snake gif](https://github.com/harshverma4028/harshverma4028/blob/output/github-contribution-grid-snake.svg)-->
