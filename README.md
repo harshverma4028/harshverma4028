@@ -15,7 +15,7 @@
 
 - 📫 How to reach me: **harshverma4028@gmail.com**
 
-- 📄 Know about my experiences from [My Resume](https://drive.google.com/) and [My Portfolio](https://your-portfolio-link.com)
+- 📄 Know about my experiences from [My Resume](https://drive.google.com/) and [My Portfolio]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
